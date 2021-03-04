@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  color: #61dafb;
+  background-color: #20232a;
+}
+
+.App > h1 {
+  font-size: 60px;
+}

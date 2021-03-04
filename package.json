@@ -1,0 +1,28 @@
+{
+  "name": "@itsmestevieg/cra-template-hello-react",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Steven Graham",
+  "description": "Basic template for Create React App.",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "main": "template.json",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsmestevieg/cra-template-hello-react",
+    "directory": "/"
+  },
+  "bugs": {
+    "url": "https://github.com/itsmestevieg/cra-template-hello-react/issues"
+  }
+}
